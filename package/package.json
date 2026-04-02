@@ -1,0 +1,19 @@
+{
+  "name": "lpmgames.terrain.erosion",
+  "displayName": "LPM Games - Terrain Erosion",
+  "author": "Luke Mitchell",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "description": "Terrain generation utilities for Unity, specifically for terrain erosion",
+  "keywords": [
+    "terrain", "erosion", "burst", "dots"
+  ],
+  "dependencies": {
+    "com.unity.mathematics": "1.2.1"
+  },
+  "documentationUrl": "https://github.com/lpmitchell/AdvancedTerrainErosion/",
+  "repository": {
+    "url": "https://github.com/lpmitchell/AdvancedTerrainErosion",
+    "type": "git"
+  }
+}

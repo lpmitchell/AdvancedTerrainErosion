@@ -1,0 +1,16 @@
+{
+    "name": "LPMGames.Terrain.Erosion",
+    "rootNamespace": "LPMGames.Terrain.Erosion",
+    "references": [
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
