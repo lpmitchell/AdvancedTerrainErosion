@@ -1,4 +1,4 @@
-﻿# Advanced Terrain Erosion Filter (C# / Unity / Burst)
+﻿# Fast Advanced Terrain Erosion (C# / Unity / Burst)
 
 A Burst-compatible C# implementation of a fast, procedural terrain erosion filter, 
 based on a chain of shader work from the ShaderToy community.
