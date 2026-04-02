@@ -7,11 +7,11 @@ This is a **CPU Based** erosion filter that can be used to generate realistic lo
 mountain erosion effects on your CPU-based terrain generation.
 
 This is based on the work of Rune Skovbo Johansen, and a long list of works by other
-people (read THIRD_PARTY_NOTICES.md for more info).
+people (read `THIRD_PARTY_NOTICES.md` for more info).
 
-For an in-depth and awesome explanation of the technique, read/watch this first:
+For a fascinating and in-depth explanation of the technique, read/watch this first:
 
-👉 https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html
+https://blog.runevision.com/2026/03/fast-and-gorgeous-erosion-filter.html
 
 ## What this is
 
@@ -37,7 +37,7 @@ just copy it into your project.
 
 1. Open Package Manager
 2. Click "Add package from git URL"
-3. Paste in: `https://github.com/lpmitchell/.git?path=/package`
+3. Paste in: `https://github.com/lpmitchell/AdvancedTerrainErosion.git?path=/package`
 
 ## Single/Double Precision
 
